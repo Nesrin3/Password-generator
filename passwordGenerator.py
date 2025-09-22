@@ -4,7 +4,6 @@ import string
 
 
 print("Welcome to the password generator!")
-
 # Ask the user for input
 total_number = int(input("Enter the total number of characters in the password: "))
 letter_num = int(input("Enter the number of letters in password: "))
